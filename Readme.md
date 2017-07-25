@@ -1,6 +1,4 @@
-================================
 Lucky's BnS Blade Tracker
-================================
 
 Hello,
 
@@ -12,6 +10,7 @@ This is my first version of a BnS Daily + Ping Tracker. I hope to add more featu
 4. If there are any issues or bugs that need to be addressed please contact me immediately. 
 
 Screenshot:
+
 ![BladeTracker](https://github.com/fpkothari/BladeTracker/blob/master/Screenshot.PNG)
 
 Lucky!
